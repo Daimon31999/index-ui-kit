@@ -4,7 +4,7 @@ import external from "rollup-plugin-peer-deps-external";
 
 export default [
   {
-    input: "./src/index.js",
+    input: "./src/index.ts",
     output: [
       {
         file: "dist/index.js",
