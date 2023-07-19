@@ -1,7 +1,7 @@
 
 # Index UI Kit
 
-![Logo](./src/logo.png)
+![Logo](https://global-uploads.webflow.com/5d64efaf6ed3ee2b38a10835/62bc78fa93aae173f5fb9bed_indexsec-logo%20(1)-p-500.png)
 
 <br />
 Welcome to the Index UI Kit. This is a comprehensive and fully customizable UI Kit, built on top of React and React Spectrum. Our goal is to facilitate the building of stunning, consistent, and accessible interfaces.
