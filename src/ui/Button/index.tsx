@@ -1,4 +1,4 @@
-import cn from "classnames";
+import { clsx } from "clsx";
 import "./style.scss";
 
 interface IProps {
@@ -16,7 +16,7 @@ export function Button(props: IProps) {
 
   return (
     <button
-      className={cn("index-button", mode, sizeClass)}
+      className={clsx("index-button", mode, sizeClass)}
       style={{ backgroundColor: backgroundColor }}
     >
       {label}
